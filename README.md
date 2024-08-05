@@ -40,4 +40,4 @@ For more information on building on and connecting to the Movement Suzuka test n
 
 We welcome contributions to this repository! If you have an example DApp or starter kit that you'd like to share with the community, please open a pull request. Make sure to include a README file with clear instructions on how to use your example.
 
-# implementation_examples
+
